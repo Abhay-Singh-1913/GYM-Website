@@ -1,0 +1,19 @@
+#icon{
+    margin: auto;
+    margin-left: -60px;
+    width: 90px;
+    height: 50px;
+    border-radius: 10%;
+    border: 3px solid rgb(197, 197, 197);
+    padding: 0px 1px 0px 1px ;
+}
+header{
+    background-color: rgb(204, 204, 204);
+    box-shadow:0px 2px 3px 0px rgb(105, 105, 105);
+}
+#logo{
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: x-large;
+    text-decoration: underline dashed;
+}
